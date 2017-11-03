@@ -1,0 +1,2 @@
+# pythonFindLocalAddress
+pythonでローカルアドレスを検索するモジュール

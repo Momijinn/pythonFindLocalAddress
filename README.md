@@ -36,9 +36,9 @@ LocalAddress.pyをインポートすると簡単にローカルアドレスを�
 ## Install
 モジュールをインポート
 
-    ```python
-    import LocalAddress as LA
-    ```
+```python
+import LocalAddress as LA
+```
 
 ## Licence
 This software is released under the MIT License, see LICENSE.

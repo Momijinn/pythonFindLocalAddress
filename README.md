@@ -35,6 +35,7 @@ LocalAddress.pyをインポートすると簡単にローカルアドレスを�
 
 ## Install
 モジュールをインポート
+
     ```python
     import LocalAddress as LA
     ```
